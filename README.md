@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luckyogbeide
 - 👀 I’m interested in Data Analysis/Data Science
-- 🌱 Experienced using SQL,python, Power Bi and Excel
+- 🌱 Experienced using SQL, python, Power Bi and Excel
 - 💞️ I’m lookig Data Anaytics/ Data Science job
 - 📫 You can reach me on ogbeide.lucky@gmail.com
 
